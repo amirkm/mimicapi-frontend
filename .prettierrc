@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 150,
+  "semi": false,
+  "plugins": [],
+  "tailwindConfig": "./tailwind.config.cjs",
+  "importOrder": ["^@core/(.*)$", "^@server/(.*)$", "^@ui/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
